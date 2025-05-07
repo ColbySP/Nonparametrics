@@ -1,0 +1,1 @@
+The contents of this repo is the corresponding Python code for the final project report. It takes the form of a Juypter notebook where each cell contains important code for either model fitting, or figure generation.
